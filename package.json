@@ -1,0 +1,29 @@
+{
+  "name": "sns-library",
+  "version": "1.0.0",
+  "description": "A name and address resolver for Shibarium Name Service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JoaoSantosDev99/SNS-Library.git"
+  },
+  "keywords": [
+    "SNS",
+    "NameResolver"
+  ],
+  "author": "Joao Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoSantosDev99/SNS-Library/issues"
+  },
+  "homepage": "https://github.com/JoaoSantosDev99/SNS-Library#readme",
+  "dependencies": {
+    "alchemy-sdk": "^2.8.0",
+    "axios": "^1.3.6",
+    "bytes32": "^0.0.3",
+    "ethers": "^5.5.3"
+  }
+}
